@@ -1,0 +1,13 @@
+name = "Nomi Labs"
+filename = "NomiLabs-0.10.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6c9e93de72517942ceaf7a71debb8f30c2bdb99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5819067
+project-id = 932060

@@ -1,0 +1,13 @@
+name = "Nomifactory-CEu-packwiz"
+author = "TM4"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "65a82332aca8ef44053a70a38e4302fe97ab3ab1af088790a72007f91b214f48"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
