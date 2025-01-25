@@ -4304,11 +4304,6 @@ hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
-file = "mods/relictium.pw.toml"
-hash = "d8c00925e0933539c7839fcf1d86f1324240440634ca7ed991fd4effe241c0ef"
-metafile = true
-
-[[files]]
 file = "mods/reload-audio-driver-rad.pw.toml"
 hash = "ad7e36bb7b4b135595ce80bce50d459dc79ed7cd24c74e787288ddd49aba13dd"
 metafile = true
@@ -4481,26 +4476,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "a2a749fa31431ea85631e10288b666f1979edf7b3ecade583eb1f5ffa9f14303"
-
-[[files]]
-file = "resourcepacks/MinecraftFont.zip"
-hash = "a49e565dbd76dfcf8ffab4b4fdcce4555c1772d5f990000e852543a9fbd7969d"
-
-[[files]]
-file = "resourcepacks/Nomifactory CEu Russian by TM4.zip"
-hash = "88cb19bbffd1955365bc24826da3b86790d175ffbb9a9594d28bdbddf2393339"
-
-[[files]]
-file = "resourcepacks/translations-main-258ae82-gregtech-drawers.zip"
-hash = "366031ec45523b23f9c087ebe11d6ad1139fe3e155570f8e0d512b2f7b769c72"
-
-[[files]]
-file = "resourcepacks/translations-main-258ae82-nomi-ceu.zip"
-hash = "853a06846857504b9b12b541a58493c2322ed27e8746dfeae75fbfd194f9dcc9"
-
-[[files]]
-file = "resourcepacks/translations-main-258ae82-nomi-labs.zip"
-hash = "5c518641a591bc52f9c27d3e71106edcad3f9d75c84dda06fec3d9968b70f86f"
 
 [[files]]
 file = "resources/actuallyadditions/lang/en_us.lang"
