@@ -3373,10 +3373,6 @@ file = "config/snad.cfg"
 hash = "8b8793f1be1e542127ab09e614ebc045088422aa4c4a30104a25476e0c3a29a2"
 
 [[files]]
-file = "config/solarflux/_custom/README.txt"
-hash = "9039b7dfd2609842811bf80fcbd03823b14555d143ca89d30443bbe1fb4e93cb"
-
-[[files]]
 file = "config/solarflux/avaritia/infinity.json"
 hash = "0a03bbc7d4c798aa83937e8629d605be20d258add57f45c9d5a46b852ac5eeac"
 
