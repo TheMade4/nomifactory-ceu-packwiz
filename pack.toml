@@ -1,12 +1,12 @@
 name = "Nomifactory-CEu-packwiz"
 author = "TM4"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eba91fc05c31bca88dcddf947c72c334b5c2b16e0d3f9d1e84e46635981679b8"
+hash = "a3bad89cc4e4cbcd10ad68a3fceda9d49af438dc6cb52fc9293d4c4488cd8564"
 
 [versions]
 forge = "14.23.5.2860"
